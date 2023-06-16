@@ -1,8 +1,7 @@
 import React from 'react'
 import InputFields from './InputFields';
 import { Data } from './Data';
-// import '../App.css'
-import '../CSS/style.css';
+import '../App.css'
 import '../Style.css'
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import {faLocationArrow} from '@fortawesome/free-solid-svg-icons';
